@@ -1,24 +1,15 @@
-import './App.css';
+import './index.css';
+import React from "react";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
 
-export default App;
+class info extends React.Component {
+  render(){
+    return(
+      <div>
+        <h2>ID:{this.props.id}</h2>
+        <h2>Name:{this.props.name}</h2>
+      </div>
+    )
+  }
+} 
+export default info
