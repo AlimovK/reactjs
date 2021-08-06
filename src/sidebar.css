@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Product Sans;
+}
+.container{
+    height: 100%;
+    width: 233px;
+    border: 1px solid #E7E7E7;
+    ackground: #F2F2F2;
+}
+
+/*top*/
+.top{
+    margin-top: 32px;
+    margin-left: 43px;
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    height: 26px;
+    width: 26px;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+.iffee{
+    font-family: Product Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    color: #282c34;
+}
+
+/*center*/
+.center{
+    width: fit-content;
+    height:  fit-content;
+    margin-left: 42px;
+    margin-top: 87px;
+    margin-bottom: 10px;
+}
+#menu{
+    width: 35px;
+    height: 17px;
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    color: #3629B7;
+    text-decoration: none;
+    margin-bottom: 21px;
+
+}
+.img{
+    width: 20px;
+    height: 19.96px;
+    margin-right: 21px;
+}
+.garage-1{
+    width: 19px;
+    height: 15px;
+}
+.elem{
+    display: flex;
+    align-items: center;
+    color: #838383;
+    margin-bottom: 35px;
+}
+.Setting{
+    margin-bottom: 0;
+}
+
+/*bottom*/
+.bottom{
+    display: flex;
+    flex-direction: column;
+    margin-top: 106px;
+    width: 116px;
+    height: 170px;
+    margin-left: 47px;
+    margin-bottom: 115px;
+}
+.scheduled{
+    width: 104px;
+    height: 17px;
+    font-size: 14px;
+    line-height: 17px;
+    color: #3629B7;
+    margin-bottom: 40px;
+}
+#moto, #dynamic, #olympic {
+    display: flex;
+    align-items: center;
+}
+.ellipse3{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 1px solid #27C1B3;
+    box-sizing: border-box;
+    margin-right: 14px;
+}
+.ellipse2{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 1px solid #FA6C6A;
+    box-sizing: border-box;
+    margin-right: 14px;
+}
+.ellipse{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 1px solid #3F7EF8;
+    box-sizing: border-box;
+    margin-right: 14px;
+}
+
+.motogp, .dynamics, .olympics{
+    color: #838383;
+    width: 85px;
+    height: 17px;
+    font-size: 14px;
+    line-height: 17px;
+    width: fit-content;
+}
+#moto{
+    margin-bottom: 31px;
+}
+#dynamic{
+    margin-bottom: 31px;
+}
+
+.footer{
+    display: flex;
+    align-items: center;
+    width: 183px;
+    height: 63px;
+    background: #F9FAFF;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+.killua{
+    width: 35px;
+    height: 39px;
+    margin-left: 15px;
+    margin-top: 13px;
+    margin-bottom: 11px;
+    margin-right: 13px;
+}
+.kill{
+    width: 41px;
+    height: 14px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #591AED;
+    margin-right: 47px;
+}
+.footer-icon{
+    width: 20px;
+    height: 20px;
+}

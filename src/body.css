@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #FBFCFF;
+}
+
+.main-body{
+    display: flex;
+    width: 100%;
+    margin-top: 108px;
+}
+.renailt-icon{
+    display: flex;
+    align-items: center;
+    margin-bottom: 17px;
+}
+.text{
+    width: 310px;
+    height: 58px;
+    font-family: Gilroy-Light;
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000;
+    margin-left: 112px;
+}
+.span{
+    position: absolute;
+    width: 22px;
+    height: 19px;
+    left: 770px;
+    top: 410px;
+    font-family: Gilroy-Medium;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+#icon{
+    margin-left: 192px;
+}
+.infiniti{
+    margin-right: 8px;
+}
+.left-icon, .right-icon{
+    width: 40px;
+    height: 40px;
+    background: #FEFEFF;
+    box-shadow: 0px 100px 80px rgba(41, 72, 152, 0.05), 0px 64.8148px 46.8519px rgba(41, 72, 152, 0.037963), 0px 38.5185px 25.4815px rgba(41, 72, 152, 0.0303704), 0px 20px 13px rgba(41, 72, 152, 0.025), 0px 8.14815px 6.51852px rgba(41, 72, 152, 0.0196296), 0px 1.85185px 3.14815px rgba(41, 72, 152, 0.012037);
+    border-radius: 10px;
+}
+.left-icon{
+    margin-right: 17px;
+}
+#car-r{
+    margin-left: 73px;
+}
+.champion{
+    display: flex;
+    align-items: center;
+}
+.cat-icon{
+    height: 80px;
+    width: 80px;
+}
+.num-72{
+    font-family: Google Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22.6885px;
+    line-height: 29px;
+    color: #1D2C3C;
+}
+.championship{
+    ont-family: Google Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0164px;
+    line-height: 22px;
+    color: #9BA6B2;
+    margin-bottom: 60px;
+}
+.skins{
+    display: flex;
+    align-items: center;
+    margin-bottom: 60px;
+}
+.moon-icon, .vec{
+    display: flex;
+    align-items: center;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+#num-32{
+    font-family: Google Sans !important;
+    font-style: normal;
+    font-weight: bold ;
+    font-size: 22.6885px;
+    line-height: 29px;
+    color: #1D2C3C ;
+}
+.skin-name{
+    font-family: Google Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0164px;
+    line-height: 22px;
+    color: #9BA6B2;
+}
+.won{
+    display: flex;
+    align-items: center;
+}
+#num-64{
+    font-family: Google Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22.6885px;
+    line-height: 29px;
+    color: #1D2C3C;
+}
+.trop{
+    font-family: Google Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17.0164px;
+    line-height: 22px;
+    color: #9BA6B2;
+}
